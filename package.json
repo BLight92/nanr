@@ -1,0 +1,21 @@
+{
+  "name": "nanr",
+  "version": "1.0.0",
+  "description": "A URL Shortener App",
+  "main": "nanr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Light",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "nanoid": "^5.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
